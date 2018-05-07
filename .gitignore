@@ -63,3 +63,7 @@ gwt-unitCache/
 www-test/
 # code-museum have a war folder so don't remove 'user/'
 user/war/
+
+# Idea
+.idea
+*.iml
