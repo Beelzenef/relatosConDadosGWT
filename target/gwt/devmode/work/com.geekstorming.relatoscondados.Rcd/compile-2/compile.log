@@ -1,0 +1,17 @@
+binding: user.agent=safari
+Compiling module com.geekstorming.relatoscondados.Rcd
+   Unification traversed 19961 fields and methods and 1914 types. 1883 are considered part of the current module and 1883 had all of their fields and methods traversed.
+   Warnings in com/google/gwt/emul/java/util/Arrays.java
+      [WARN] Line 1782: [unusable-by-js] Type of parameter 'd1' in 'int Arrays.1methodref$compare$Type.compare(long, long)' is not usable by but exposed to JavaScript.
+      [WARN] Line 1782: [unusable-by-js] Type of parameter 'd2' in 'int Arrays.1methodref$compare$Type.compare(long, long)' is not usable by but exposed to JavaScript.
+   [WARN] Suppress "[unusable-by-js]" warnings by adding a `@SuppressWarnings("unusable-by-js")` annotation to the corresponding member.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 1862 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 6.672s
+Linking into /Users/egblanco/Code/relatosConDadosGWT/target/gwt/devmode/work/com.geekstorming.relatoscondados.Rcd/compile-2/war/rcd; Writing extras to /Users/egblanco/Code/relatosConDadosGWT/target/gwt/devmode/work/com.geekstorming.relatoscondados.Rcd/compile-2/extras/rcd
+   Link succeeded
+   Linking succeeded -- 0.212s
+6.948s total -- Compile completed
